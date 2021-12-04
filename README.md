@@ -1,6 +1,6 @@
 # Introduction
 This is a demo file to run the illusion that won the grand prize in The Illusion contest 2019 in MATLAB.
-![DualAxisIllusion](/uploads/44957c21915e0ba1f4dd411fce87a9b8/DualAxisIllusion.gif)
+![DualAxisIllusion](https://user-images.githubusercontent.com/62166747/144692529-47548e3e-d1ec-444e-8042-a911f72a78f3.gif)
 
 There are three intersections that are moving horizontally and three intersections that are moving vertically. If you pay attention to any of them, the motion of the whole illusion may appear to change.
 
